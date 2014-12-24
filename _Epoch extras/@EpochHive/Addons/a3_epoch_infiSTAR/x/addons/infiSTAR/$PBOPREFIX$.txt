@@ -1,0 +1,6 @@
+///////<HEADER>///////
+pboprefix=x\addons\infiSTAR
+prefix=x\addons\infiSTAR
+Pbo Type is: Arma Addon
+Sha: '075C44261F4921E73E126CC441FF4D310D83D470'
+//////</HEADER>//////
